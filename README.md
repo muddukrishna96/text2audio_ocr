@@ -7,7 +7,7 @@ This repository contains Python code to extract text from an image using Optical
 - [Installation](#installation)
 - [Usage](#usage)
 - [Example](#example)
-- [License](#license)
+
 
 ## Requirements
 
